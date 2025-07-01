@@ -1,0 +1,122 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #1e3c45, #2a5d6e);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.auth-box {
+  background-color: #1a1a1a;
+  padding: 40px 30px;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.6);
+  width: 320px;
+  text-align: center;
+  color: #fff;
+}
+
+.auth-title {
+  margin-bottom: 30px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 24px;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  font-size: 18px;
+  pointer-events: none;
+}
+
+.auth-form input {
+  width: 100%;
+  padding: 12px 12px 12px 36px;
+  border: none;
+  border-radius: 4px;
+  background-color: #ccc;
+  color: #333;
+  font-size: 14px;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.auth-form input:focus {
+  background-color: #fff;
+}
+
+.auth-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 13px;
+  color: #bbb;
+}
+
+.auth-options label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.auth-options input[type="checkbox"] {
+  margin-right: 6px;
+}
+
+.forgot-password {
+  color: #bbb;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.auth-error {
+  color: #ff6b6b;
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+
+.auth-button {
+  width: 100%;
+  padding: 12px 0;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-button {
+  background-color: #5a8f94;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.login-button:hover {
+  background-color: #4a7a7f;
+}
+
+.register-button {
+  background-color: #111;
+  color: #fff;
+}
+
+.register-button:hover {
+  background-color: #222;
+}

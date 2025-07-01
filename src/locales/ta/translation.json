@@ -1,0 +1,19 @@
+{
+  "home": "முகப்பு",
+  "recipes": "சமையல் வகைகள்",
+  "addRecipe": "சமையல் வகை சேர்க்கவும்",
+  "recipeList": "சமையல் வகைகள் பட்டியல்",
+  "recipeListFor": "{{query}} க்கான சமையல் வகைகள் பட்டியல்",
+  "details": "விவரங்கள்",
+  "recipeURL": "சமையல் வகை URL",
+  "copiedToClipboard": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது",
+  "removeRecipe": "சமையல் வகையை நீக்கு",
+  "shareRecipe": "சமையல் வகையை பகிரவும்",
+  "recipeTitle": "சமையல் வகை தலைப்பு",
+  "ingredients": "பொருட்கள்",
+  "description": "விளக்கம்",
+  "uploadImage": "படத்தை பதிவேற்றவும்",
+  "submitRecipe": "சமையல் வகையை சமர்ப்பிக்கவும்",
+  "recipeSubmitted": "சமையல் வகை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது",
+  "thankYou": "நன்றி!"
+}

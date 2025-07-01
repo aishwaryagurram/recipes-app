@@ -1,0 +1,19 @@
+{
+  "home": "হোম",
+  "recipes": "রেসিপি",
+  "addRecipe": "রেসিপি যোগ করুন",
+  "recipeList": "রেসিপির তালিকা",
+  "recipeListFor": "{{query}} এর জন্য রেসিপির তালিকা",
+  "details": "বিস্তারিত",
+  "recipeURL": "রেসিপি URL",
+  "copiedToClipboard": "ক্লিপবোর্ডে কপি করা হয়েছে",
+  "removeRecipe": "রেসিপি মুছুন",
+  "shareRecipe": "রেসিপি শেয়ার করুন",
+  "recipeTitle": "রেসিপির শিরোনাম",
+  "ingredients": "উপকরণ",
+  "description": "বর্ণনা",
+  "uploadImage": "ছবি আপলোড করুন",
+  "submitRecipe": "রেসিপি জমা দিন",
+  "recipeSubmitted": "রেসিপি সফলভাবে জমা দেওয়া হয়েছে",
+  "thankYou": "ধন্যবাদ!"
+}

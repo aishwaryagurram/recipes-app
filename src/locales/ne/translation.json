@@ -1,0 +1,19 @@
+{
+  "home": "गृहपृष्ठ",
+  "recipes": "पाक विधिहरू",
+  "addRecipe": "पाक विधि थप्नुहोस्",
+  "recipeList": "पाक विधिहरूको सूची",
+  "recipeListFor": "{{query}} को लागि पाक विधिहरूको सूची",
+  "details": "विवरण",
+  "recipeURL": "पाक विधि URL",
+  "copiedToClipboard": "क्लिपबोर्डमा प्रतिलिपि गरियो",
+  "removeRecipe": "पाक विधि हटाउनुहोस्",
+  "shareRecipe": "पाक विधि साझा गर्नुहोस्",
+  "recipeTitle": "पाक विधि शीर्षक",
+  "ingredients": "सामग्रीहरू",
+  "description": "विवरण",
+  "uploadImage": "छवि अपलोड गर्नुहोस्",
+  "submitRecipe": "पाक विधि पेश गर्नुहोस्",
+  "recipeSubmitted": "पाक विधि सफलतापूर्वक पेश गरियो",
+  "thankYou": "धन्यवाद!"
+}

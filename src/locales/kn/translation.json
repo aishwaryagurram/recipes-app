@@ -1,0 +1,19 @@
+{
+  "home": "ಮುಖಪುಟ",
+  "recipes": "ಪಾಕವಿಧಾನಗಳು",
+  "addRecipe": "ಪಾಕವಿಧಾನ ಸೇರಿಸಿ",
+  "recipeList": "ಪಾಕವಿಧಾನಗಳ ಪಟ್ಟಿ",
+  "recipeListFor": "{{query}} ಗಾಗಿ ಪಾಕವಿಧಾನಗಳ ಪಟ್ಟಿ",
+  "details": "ವಿವರಗಳು",
+  "recipeURL": "ಪಾಕವಿಧಾನ URL",
+  "copiedToClipboard": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ",
+  "removeRecipe": "ಪಾಕವಿಧಾನವನ್ನು ತೆಗೆದುಹಾಕಿ",
+  "shareRecipe": "ಪಾಕವಿಧಾನವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ",
+  "recipeTitle": "ಪಾಕವಿಧಾನ ಶೀರ್ಷಿಕೆ",
+  "ingredients": "ಪದಾರ್ಥಗಳು",
+  "description": "ವಿವರಣೆ",
+  "uploadImage": "ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+  "submitRecipe": "ಪಾಕವಿಧಾನವನ್ನು ಸಲ್ಲಿಸಿ",
+  "recipeSubmitted": "ಪಾಕವಿಧಾನವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ",
+  "thankYou": "ಧನ್ಯವಾದಗಳು!"
+}

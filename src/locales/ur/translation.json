@@ -1,0 +1,19 @@
+{
+  "home": "ہوم",
+  "recipes": "نسخے",
+  "addRecipe": "نسخہ شامل کریں",
+  "recipeList": "نسخوں کی فہرست",
+  "recipeListFor": "{{query}} کے لیے نسخوں کی فہرست",
+  "details": "تفصیلات",
+  "recipeURL": "نسخہ URL",
+  "copiedToClipboard": "کلپ بورڈ پر کاپی کیا گیا",
+  "removeRecipe": "نسخہ ہٹائیں",
+  "shareRecipe": "نسخہ شیئر کریں",
+  "recipeTitle": "نسخہ کا عنوان",
+  "ingredients": "اجزاء",
+  "description": "تفصیل",
+  "uploadImage": "تصویر اپ لوڈ کریں",
+  "submitRecipe": "نسخہ جمع کروائیں",
+  "recipeSubmitted": "نسخہ کامیابی سے جمع کروا دیا گیا",
+  "thankYou": "شکریہ!"
+}

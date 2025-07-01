@@ -1,0 +1,19 @@
+{
+  "home": "होम",
+  "recipes": "व्यंजन",
+  "addRecipe": "व्यंजन जोड़ें",
+  "recipeList": "व्यंजन सूची",
+  "recipeListFor": "{{query}} के लिए व्यंजन सूची",
+  "details": "विवरण",
+  "recipeURL": "व्यंजन URL",
+  "copiedToClipboard": "क्लिपबोर्ड में कॉपी किया गया",
+  "removeRecipe": "व्यंजन हटाएं",
+  "shareRecipe": "व्यंजन साझा करें",
+  "recipeTitle": "व्यंजन का शीर्षक",
+  "ingredients": "सामग्री",
+  "description": "विवरण",
+  "uploadImage": "छवि अपलोड करें",
+  "submitRecipe": "व्यंजन सबमिट करें",
+  "recipeSubmitted": "व्यंजन सफलतापूर्वक सबमिट किया गया",
+  "thankYou": "धन्यवाद!"
+}

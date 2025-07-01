@@ -1,0 +1,19 @@
+{
+  "home": "హోమ్",
+  "recipes": "వంటకాలు",
+  "addRecipe": "వంటకం జోడించండి",
+  "recipeList": "వంటకాల జాబితా",
+  "recipeListFor": "{{query}} కోసం వంటకాల జాబితా",
+  "details": "వివరాలు",
+  "recipeURL": "వంటకం URL",
+  "copiedToClipboard": "క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది",
+  "removeRecipe": "వంటకం తొలగించండి",
+  "shareRecipe": "వంటకం పంచుకోండి",
+  "recipeTitle": "వంటకం శీర్షిక",
+  "ingredients": "పదార్థాలు",
+  "description": "వివరణ",
+  "uploadImage": "చిత్రాన్ని అప్‌లోడ్ చేయండి",
+  "submitRecipe": "వంటకం సమర్పించండి",
+  "recipeSubmitted": "వంటకం విజయవంతంగా సమర్పించబడింది",
+  "thankYou": "ధన్యవాదాలు!"
+}
